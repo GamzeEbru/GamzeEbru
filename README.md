@@ -13,14 +13,23 @@ I am a 4th year computer engineering student at Bolu Abant İzzet Baysal Univers
 - 🤔 I’m looking for help with working as a frontend developer 
 
 ## Social
-
-[![gt](https://skillicons.dev/icons?i=github)](https://github.com/GamzeEbru)
-
-[![gt](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gamzeebrualtikulac)
-
-[![gt](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/gmzebruu/)
-
-[![gt](https://skillicons.dev/icons?i=twitter)](https://twitter.com/bi_bakipcikicaz)
+<p align="center">
+  <a href="(https://github.com/GamzeEbru)">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/gamzeebrualtikulac">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  
+  <a href="https://www.instagram.com/gmzebruu/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  
+  <a href="https://twitter.com/bi_bakipcikicaz)">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamzeEbru)](https://github.com/anuraghazra/github-readme-stats)
