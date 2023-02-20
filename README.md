@@ -1,6 +1,6 @@
-### Hi there 👋, My name is Gamze Ebru
-#### *A front-end engineer from Turkey.*
-I am a 4th year computer engineering student at Bolu Abant İzzet Baysal University. I want to continue my career as a **frontend developer**. I continue my work in this field.
+## Hi there 👋, My name is Gamze Ebru
+### *A front-end engineer from Turkey.*
+*I am a 4th year computer engineering student at Bolu Abant İzzet Baysal University. I want to continue my career as a **frontend developer**.I continue my work in this field.*
 
 ## Skills
 ### Advanced
@@ -13,8 +13,8 @@ I am a 4th year computer engineering student at Bolu Abant İzzet Baysal Univers
 - 🤔 I’m looking for help with working as a frontend developer 
 
 ## Social
-<p align="center">
-  <a href="(https://github.com/GamzeEbru)">
+<p>
+  <a href="https://github.com/GamzeEbru">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   
@@ -26,14 +26,20 @@ I am a 4th year computer engineering student at Bolu Abant İzzet Baysal Univers
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   
-  <a href="https://twitter.com/bi_bakipcikicaz)">
+  <a href="https://twitter.com/bi_bakipcikicaz">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
 
+## Github Profile
 
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamzeEbru)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GamzeEbru&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/GamzeEbru)  
+
+
+
+
