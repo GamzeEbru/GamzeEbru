@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋, My name is Gamze Ebru
+#### *A front-end engineer from Turkey.*
+I am a 4th year computer engineering student at Bolu Abant İzzet Baysal University. I want to continue my career as a **frontend developer**. I continue my work in this field.
 
-<!--
-**GamzeEbru/GamzeEbru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+### Advanced
+[![Advanced](https://skillicons.dev/icons?i=js,html,css,react,nodejs,tailwindcss,bootstrap,mysql,vscode)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+### Beginner
+[![Beginner](https://skillicons.dev/icons?i=sass,python,jquery,cs,c,figma,visualstudio)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning React 
+- 🤔 I’m looking for help with working as a frontend developer 
+
+## Social
+
+[![gt](https://skillicons.dev/icons?i=github,linkedin,instagram,twitter)](https://github.com/GamzeEbru,https://www.linkedin.com/in/gamzeebrualtikulac,https://www.instagram.com/gmzebruu/,https://twitter.com/bi_bakipcikicaz)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamzeEbru)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GamzeEbru&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/GamzeEbru)  
