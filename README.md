@@ -14,7 +14,13 @@ I am a 4th year computer engineering student at Bolu Abant İzzet Baysal Univers
 
 ## Social
 
-[![gt](https://skillicons.dev/icons?i=github,linkedin,instagram,twitter)](https://github.com/GamzeEbru,https://www.linkedin.com/in/gamzeebrualtikulac,https://www.instagram.com/gmzebruu/,https://twitter.com/bi_bakipcikicaz)
+[![gt](https://skillicons.dev/icons?i=github)](https://github.com/GamzeEbru)
+
+[![gt](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gamzeebrualtikulac)
+
+[![gt](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/gmzebruu/)
+
+[![gt](https://skillicons.dev/icons?i=twitter)](https://twitter.com/bi_bakipcikicaz)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamzeEbru)](https://github.com/anuraghazra/github-readme-stats)
