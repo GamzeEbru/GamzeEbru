@@ -7,7 +7,7 @@
 [![Advanced](https://skillicons.dev/icons?i=js,html,css,react,nodejs,tailwindcss,bootstrap,mysql,vscode)](https://skillicons.dev)
 
 ### Beginner
-[![Beginner](https://skillicons.dev/icons?i=sass,python,jquery,cs,c,figma,visualstudio)](https://skillicons.dev)
+[![Beginner](https://skillicons.dev/icons?i=python,cs,c,figma,visualstudio)](https://skillicons.dev)
 
 - 🌱 I’m currently learning React 
 - 🤔 I’m looking for help with working as a frontend developer 
