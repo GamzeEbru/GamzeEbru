@@ -25,10 +25,7 @@
   <a href="https://www.instagram.com/gmzebruu/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  
-  <a href="https://twitter.com/bi_bakipcikicaz">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
+
 </p>
 
 ## Github Profile
