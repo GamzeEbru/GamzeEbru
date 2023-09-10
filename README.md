@@ -4,10 +4,9 @@
 
 ## Skills
 ### Advanced
-[![Advanced](https://skillicons.dev/icons?i=js,django,html,css,react,nodejs,tailwindcss,bootstrap,mysql,vscode,)](https://skillicons.dev)
+[![Advanced](https://skillicons.dev/icons?i=js,python,django,postgres,html,css,react,nodejs,tailwindcss,bootstrap,mysql,vscode,)](https://skillicons.dev)
 
-### Beginner
-[![Beginner](https://skillicons.dev/icons?i=python,cs,c,figma,visualstudio)](https://skillicons.dev)
+
 
 - 🌱 I’m currently learning React 
 - 🤔 I’m looking for help with working as a frontend developer 
