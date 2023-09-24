@@ -1,6 +1,6 @@
 ## Hi there 👋, My name is Gamze Ebru
 ### *A front-end engineer from Turkey.*
-*I am a 4th year computer engineering student at Bolu Abant İzzet Baysal University. I want to continue my career as a **frontend developer**.I continue my work in this field.*
+*I am a computer engineering graduate. I want to continue my career as a **WEB developer**. I continue my work in this field.*
 
 ## Skills
 ### Advanced
@@ -8,8 +8,8 @@
 
 
 
-- 🌱 I’m currently learning React 
-- 🤔 I’m looking for help with working as a frontend developer 
+- 🌱 I’m currently learning Python Django REST framework 
+- 🤔 I’m looking for help with working as a WEB developer 
 
 ## Social
 <p>
