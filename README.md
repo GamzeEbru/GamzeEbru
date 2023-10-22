@@ -1,5 +1,5 @@
 ## Hi there 👋, My name is Gamze Ebru
-### *A front-end engineer from Turkey.*
+### *A WEB developer from Turkey.*
 *I am a computer engineering graduate. I want to continue my career as a **WEB developer**. I continue my work in this field.*
 
 ## Skills
