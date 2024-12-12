@@ -4,7 +4,7 @@
 
 ## Skills
 ### Advanced
-[![Advanced](https://skillicons.dev/icons?i=js,python,django,postgres,html,css,react,nodejs,tailwindcss,bootstrap,mysql,vscode,)](https://skillicons.dev)
+[![Advanced](https://skillicons.dev/icons?i=js,python,django,postgres,html,css,react,tailwindcss,bootstrap,mysql,aws,postgres,pycharm,vscode)](https://skillicons.dev)
 
 
 
